@@ -11,8 +11,8 @@ export class SharedService {
   // readonly APIUrl="http://localhost:57291/api";
   // readonly PhotoUrl="http://localhost:57291/Photos/";
 
-  readonly APIUrl="http://mrinmayee-001-site1.dtempurl.com/api";
-  readonly PhotoUrl="http://mrinmayee-001-site1.dtempurl.com/Photos/";
+  readonly APIUrl="https://studentenroll.azurewebsites.net/api";
+   readonly PhotoUrl="https://studentenroll.azurewebsites.net/Photos/";
   
 
   constructor(private http:HttpClient) { }
